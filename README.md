@@ -14,7 +14,7 @@ The Analysis includes:
 - Comparing our created Models
 - Making Predictions based on our best-performing Model
 
-The updated notebook (House-prices Gradient Boosting) includes the comparison of different estimators like:
+The updated notebook (House-prices Gradient Boosting) includes the comparison and optimization of different estimators like:
 - Ridge Regression
 - Lasso Regression
 - Huber Regression
